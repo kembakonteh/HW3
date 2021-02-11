@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ Write\ a\ description\ of\ class\ Validation\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=zip
+comment1.target=boolean\ validateZip(java.lang.String)
+comment2.params=ssn
+comment2.target=boolean\ validateSSN(java.lang.String)
+numComments=3

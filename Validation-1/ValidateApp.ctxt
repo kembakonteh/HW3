@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ValidateApp
+comment0.text=\n\ Write\ a\ description\ of\ class\ ValidateApp\ here.\n\nimport\ java.util.Scanner;\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ menuDisplay()
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=
+comment4.target=void\ instructions()
+numComments=5
